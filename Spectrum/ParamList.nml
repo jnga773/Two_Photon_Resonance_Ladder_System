@@ -1,0 +1,13 @@
+&PARAMS
+    ! Parameters in terms of decay rate gamma
+    ! Atom decay rate
+    gamma = 1.0
+    ! Drive strength (Rabi Frequency)
+    omega = 5.0
+    ! Drive detuning from two-photon resonance, \omega_{d} - \omega_{gf}
+    delta = 0.0
+    ! Dipole moment ratio of the two levels, |g> <-> |e> and |e> <-> |f>
+    xi = 1.0
+    ! Difference between two energy levels, \omega_{ef} - \omega_{ge}
+    alpha = -120.0
+/
