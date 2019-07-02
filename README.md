@@ -17,7 +17,7 @@ $ ifort -O3 -o NAME ./PROGRAM.f90
 $ ./NAME
 ```
 
-The programs only need to be compiled once as all the parameters can be changed by editing the local 'ParamsList.nml' file, which the program will pull all the relevant parameters from. All of the programs write the data into a './data_files' folder for neatness.
+The programs only need to be compiled once as all the parameters can be changed by editing the local `ParamsList.nml` file, which the program will pull all the relevant parameters from. All of the programs write the data into a `./data_files` folder for neatness.
 
 ### Abstract for Thesis
 
