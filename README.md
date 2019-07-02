@@ -19,6 +19,8 @@ $ ./NAME
 
 The programs only need to be compiled once as all the parameters can be changed by editing the local `ParamsList.nml` file, which the program will pull all the relevant parameters from. All of the programs write the data into a `./data_files` folder for neatness.
 
+If there is anything missing or not quite working please contact me via GitHub or via email at `jnga773@aucklanduni.ac.nz`.
+
 ### Abstract for Thesis
 
 In this thesis we consider a three-level ladder-type atom driven by a coherent laser. When driven on two-photon resonance, the atom is excited into its highest state by absorbing two photons simultaneously, followed by a cascaded decay.
